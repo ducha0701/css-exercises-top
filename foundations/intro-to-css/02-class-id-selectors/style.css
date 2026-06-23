@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+.main-class {
+    background-color: lightcoral;
+    font-family:'Verdana', 'DejaVu Sans', 'sans-serif'
+
+}
+
+.cooler-class {
+    font-size: 24px
+}
+
+#foo {
+    color: blue;
+    font-size: 36px
+}
+
+#bar {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold
+}
+
